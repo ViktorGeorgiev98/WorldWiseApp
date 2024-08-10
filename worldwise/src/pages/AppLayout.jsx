@@ -10,4 +10,4 @@ export default function AppLayout() {
            <Map />
         </div>
     )
-}
+} 
