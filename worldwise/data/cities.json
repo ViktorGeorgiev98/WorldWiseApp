@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,91 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "id": "9842",
+      "cityName": "Burgas",
+      "country": "Bulgaria",
+      "emoji": "🇧🇬",
+      "date": "2024-08-27T11:37:42.139Z",
+      "notes": "dasdsa",
+      "position": {
+        "lat": "42.62713865929794",
+        "lng": "27.39578247070313"
+      }
+    },
+    {
+      "id": "35d4",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-27T11:40:36.713Z",
+      "notes": "dsadsa",
+      "position": {
+        "lat": "39.98672215736636",
+        "lng": "-0.03381729125976563"
+      }
+    },
+    {
+      "id": "a8fe",
+      "cityName": "Karnobat",
+      "country": "Bulgaria",
+      "emoji": "🇧🇬",
+      "date": "2024-08-27T11:40:48.599Z",
+      "notes": "das",
+      "position": {
+        "lat": "42.566862312657896",
+        "lng": "26.97778701782227"
+      }
+    },
+    {
+      "id": "a52d",
+      "cityName": "Sungurlare",
+      "country": "Bulgaria",
+      "emoji": "🇧🇬",
+      "date": "2024-08-27T11:42:53.468Z",
+      "notes": "dsa",
+      "position": {
+        "lat": "42.77045506401014",
+        "lng": "26.730937957763675"
+      }
+    },
+    {
+      "id": "84fe",
+      "cityName": "Sungurlare",
+      "country": "Bulgaria",
+      "emoji": "🇧🇬",
+      "date": "2024-08-27T11:42:53.468Z",
+      "notes": "dsa",
+      "position": {
+        "lat": "42.77045506401014",
+        "lng": "26.730937957763675"
+      }
+    },
+    {
+      "id": "db1b",
+      "cityName": "Sungurlare",
+      "country": "Bulgaria",
+      "emoji": "🇧🇬",
+      "date": "2024-08-27T11:42:53.468Z",
+      "notes": "dsa",
+      "position": {
+        "lat": "42.77045506401014",
+        "lng": "26.730937957763675"
+      }
+    },
+    {
+      "id": "22c0",
+      "cityName": "Kotel",
+      "country": "Bulgaria",
+      "emoji": "🇧🇬",
+      "date": "2024-08-27T11:44:43.733Z",
+      "notes": "dsa",
+      "position": {
+        "lat": "43.00750678748596",
+        "lng": "26.390226578465576"
+      }
     }
   ]
 }
