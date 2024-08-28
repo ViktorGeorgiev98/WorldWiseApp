@@ -49,18 +49,6 @@
       }
     },
     {
-      "id": "35d4",
-      "cityName": "Castello de la Plana",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-08-27T11:40:36.713Z",
-      "notes": "dsadsa",
-      "position": {
-        "lat": "39.98672215736636",
-        "lng": "-0.03381729125976563"
-      }
-    },
-    {
       "id": "a8fe",
       "cityName": "Karnobat",
       "country": "Bulgaria",
@@ -73,15 +61,15 @@
       }
     },
     {
-      "id": "a52d",
+      "id": "becf",
       "cityName": "Sungurlare",
       "country": "Bulgaria",
       "emoji": "🇧🇬",
-      "date": "2024-08-27T11:42:53.468Z",
-      "notes": "dsa",
+      "date": "2024-08-28T12:17:23.753Z",
+      "notes": "dsadsa",
       "position": {
-        "lat": "42.77045506401014",
-        "lng": "26.730937957763675"
+        "lat": "42.761885573329465",
+        "lng": "26.774539947509766"
       }
     }
   ]
