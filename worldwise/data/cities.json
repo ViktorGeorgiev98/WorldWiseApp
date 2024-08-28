@@ -83,42 +83,6 @@
         "lat": "42.77045506401014",
         "lng": "26.730937957763675"
       }
-    },
-    {
-      "id": "84fe",
-      "cityName": "Sungurlare",
-      "country": "Bulgaria",
-      "emoji": "🇧🇬",
-      "date": "2024-08-27T11:42:53.468Z",
-      "notes": "dsa",
-      "position": {
-        "lat": "42.77045506401014",
-        "lng": "26.730937957763675"
-      }
-    },
-    {
-      "id": "db1b",
-      "cityName": "Sungurlare",
-      "country": "Bulgaria",
-      "emoji": "🇧🇬",
-      "date": "2024-08-27T11:42:53.468Z",
-      "notes": "dsa",
-      "position": {
-        "lat": "42.77045506401014",
-        "lng": "26.730937957763675"
-      }
-    },
-    {
-      "id": "22c0",
-      "cityName": "Kotel",
-      "country": "Bulgaria",
-      "emoji": "🇧🇬",
-      "date": "2024-08-27T11:44:43.733Z",
-      "notes": "dsa",
-      "position": {
-        "lat": "43.00750678748596",
-        "lng": "26.390226578465576"
-      }
     }
   ]
 }
